@@ -8,8 +8,7 @@ public class Atividade5 {
         
         double peso;
         double altura;
-   
-        
+
         System.err.println("Informe seu peso: ");
         peso = scanner.nextDouble();
         
